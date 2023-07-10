@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games and coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with my self
-- 📫 How to reach me don't know yet
+- 📫 How to reach me email:tfloros@hotmail.com
 
 <!---
 ItsAltF4/ItsAltF4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
